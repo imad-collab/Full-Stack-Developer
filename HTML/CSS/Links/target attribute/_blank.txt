@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <body>
+      <a href="https://www.shorturl.at/;"
+      target="_blank">Short URL</a>
+    </body>
+  </head>
+</html>

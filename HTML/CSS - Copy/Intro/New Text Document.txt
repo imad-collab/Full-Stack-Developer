@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body{
+        background-color: white;
+      }
+      h2{
+        color:black;
+        border: 2px solid blue;
+        font-family: arial;
+      }
+      p {
+    color: blue;
+    padding-left:50px;
+    padding-top: 10px;
+    border: 2px solid blue;
+    font-family: Sans-Serif;
+
+}
+
+    </style>
+  </head>
+  
+  <h2>What is your name?</h2  >
+  <p>My name is Mohammed Imaduddin</p>
+</html>
